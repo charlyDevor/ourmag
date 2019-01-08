@@ -1,0 +1,2 @@
+# ourmag
+laravel-mag
